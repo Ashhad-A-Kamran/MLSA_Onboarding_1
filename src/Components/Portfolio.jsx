@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop_2.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Microsoft Surface laptop";
 
 /**
  * Project list
@@ -31,28 +31,29 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "3D Eclipse Teacher",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Made in a 2-day NASA Space Apps Hackathon. Our task was to explain how eclipse happens. We made a webapp that tracks orbit of the moon around the Sun",
+    url: "https://github.com/Ashhad-A-Kamran/Eclipse-3D-Model.git",
+    
   },
   {
-    title: "Web Development for Beginners",
+    title: "EaseFinance - A Debt Recorder & Calculator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A C-lang based program created by me, which records the debt and calculates the amount a person owns to the rest of the people in the group",
+    url: "https://github.com/Ashhad-A-Kamran/EaseFinance.git",
   },
   {
-    title: "My Resume Site",
+    title: "Hajj & Umrah Budget Calculator",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Made in a 2-day Sastaticet Hackathon-2023 with my team, a budget guide which suggests best flights and hotels for accomodation to reduce your budget",
+    url: "https://github.com/Ashhad-A-Kamran/Budgetier-Hajj-and-Umrah-Financing.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Area and Circumference Calculator",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I created an area and circumference Calculator(for circle, obviously) when I was in 1st semester. It is a C language code, which I uploaded just to get used to Github",
+    url: "https://github.com/Ashhad-A-Kamran/Area-and-Circumference-Calculator.git",
   },
 ];
 
