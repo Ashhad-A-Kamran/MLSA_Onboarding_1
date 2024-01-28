@@ -34,7 +34,7 @@ const skillsList = [
   "Graphic Designer",
   "User Experience",
   "Photoshop Expert",
-  "Unsupervised Learner XD",
+  "Unsupervised Learner",
   "AI/ML/DL enthusiast",
 ];
 
@@ -44,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I have been using computers since the age of 7-8, I have always been fascinated by computers and that's why I chose AI as my field to pursue ;P";
+  "Out of the box thinker :D";
 
 const About = () => {
   return (
